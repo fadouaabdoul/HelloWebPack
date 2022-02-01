@@ -1,0 +1,15 @@
+.shadow {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.shadow img{
+    max-width: 100px;
+}
+
+.shadow p{
+    text-align: center;
+    font-size: 200%;
+}
